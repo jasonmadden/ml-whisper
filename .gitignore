@@ -1,0 +1,12 @@
+.env
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+drop/*
+!drop/.gitkeep
+output/*
+!output/.gitkeep
+processed/*
+!processed/.gitkeep
