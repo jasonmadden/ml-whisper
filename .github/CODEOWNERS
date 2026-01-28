@@ -1,0 +1,8 @@
+# Default owner
+* @jasonmadden
+
+# CI and infra
+.github/ @jasonmadden
+
+# Source code
+src/ @jasonmadden
